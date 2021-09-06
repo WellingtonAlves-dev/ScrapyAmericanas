@@ -1,0 +1,15 @@
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".src__Text-sc-154pg0p-0.src__PromotionalPrice-sc-1k0ejj6-8.gxxqGt"}
+  (Session info: chrome=93.0.4577.63)
+
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".src__Text-sc-154pg0p-0.src__PromotionalPrice-sc-1k0ejj6-8.gxxqGt"}
+  (Session info: chrome=93.0.4577.63)
+
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".src__Text-sc-154pg0p-0.src__PromotionalPrice-sc-1k0ejj6-8.gxxqGt"}
+  (Session info: chrome=93.0.4577.63)
+
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".src__Text-sc-154pg0p-0.src__PromotionalPrice-sc-1k0ejj6-8.gxxqGt"}
+  (Session info: chrome=93.0.4577.63)
+
+Message: no such element: Unable to locate element: {"method":"css selector","selector":".src__Text-sc-154pg0p-0.src__PromotionalPrice-sc-1k0ejj6-8.gxxqGt"}
+  (Session info: chrome=93.0.4577.63)
+
